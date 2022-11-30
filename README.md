@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrandenStoberReal
 - 👀 I’m interested in IT and Computer Science
-- 🌱 I’m currently learning C++, UE4, and C#
-- 💞️ I’m looking to collaborate on ARK mods
+- 🌱 I’m currently learning C++, Rust, and Java!
+- 💞️ I’m looking to collaborate on cool projects!
 - 📫 How to reach me: brandenstober@outlook.com (Personal Email)
 
 <!---

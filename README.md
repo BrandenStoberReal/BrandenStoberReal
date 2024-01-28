@@ -1,10 +1,58 @@
-- 👋 Hi, I’m @BrandenStoberReal
-- 👀 I’m interested in IT, Systems Administration, and Computer Science!
-- 🌱 I’m currently learning C++, Rust, and Java!
-- 💞️ I’m looking to collaborate on cool projects!
-- 📫 How to reach me: brandenstober@outlook.com (Personal Email)
+## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Branden Stober, a C# & .NET Backend Developer!
 
-<!---
-BrandenStoberReal/BrandenStoberReal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🏢 I'm currently working on improving my skills with C++, C, and Rust!
+- 👯 I'm happy to collaborate on any C#, .NET, or machine learning project
+- 💬 Ask me about my experiences programming Windows Kernel Drivers, training image identification models, and more!
+- 📫 How to reach me: 
+     - Personal: brandenstober@outlook.com
+     - School: bstober@student.sussex.edu
+
+### Social media profiles
+<p align="left">
+<a href="https://www.linkedin.com/in/branden-stober-1859412a7/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/959826700236099614"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
+</p>
+
+### Languages and Tools
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="C Sharp" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rust.svg" alt="Rust" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg" alt="Visual Studio" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="Visual Studio Code" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostGreSQL" height="30" width="40" />
+</p>
+
+### My GitHub stats 
+
+[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=brandenstoberreal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=brandenstoberreal&count_private=true&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandenstoberreal&layout=compact" />
+
+
+<!--START_SECTION:waka-->
+<br>
+
+
+**🐱 My Github Data** 
+
+> 🏆 2 Contributions in the Year 2024
+ > 
+> 📦 50+ mB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 29 Private Repositories  
+ > 
+
+<!--END_SECTION:waka-->
+-----
+Last Edited on: 1/28/2024

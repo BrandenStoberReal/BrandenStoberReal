@@ -5,7 +5,7 @@
 - 💬 Ask me about my experiences programming Windows Kernel Drivers, training image identification models, and more!
 - 📫 How to reach me: 
      - Personal: brandenstober@outlook.com
-     - School: bstober@student.sussex.edu
+     - School: BMS1129@student.phsc.edu
 
 ### Social media profiles
 <p align="left">

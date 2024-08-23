@@ -33,25 +33,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=brandenstoberreal&count_private=true&show_icons=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandenstoberreal&layout=compact" />
-
-
-<!--START_SECTION:waka-->
-<br>
-
-
-**🐱 My Github Data** 
-
-> 🏆 2 Contributions in the Year 2024
- > 
-> 📦 50+ mB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 29 Private Repositories  
- > 
-
-<!--END_SECTION:waka-->
 -----
-Last Edited on: 1/28/2024
+Last Edited on: 8/22/2024

@@ -28,7 +28,7 @@
 
 ### My GitHub stats 
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=brandenstoberreal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=brandenstoberreal)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-stats.vercel.app/api?username=brandenstoberreal&count_private=true&show_icons=true" />
 

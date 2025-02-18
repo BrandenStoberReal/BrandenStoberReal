@@ -1,8 +1,8 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Branden Stober, a C# & .NET Backend Developer!
 
-- 🏢 I'm currently working on improving my skills with C++, C, and Rust!
-- 👯 I'm happy to collaborate on any C#, .NET, or machine learning project
-- 💬 Ask me about my experiences programming Windows Kernel Drivers, training image identification models, and more!
+- 🏢 I'm working on improving my C++, C, and Rust skills!
+- 👯 I'm happy to collaborate on any C#, .NET, Blazor, WinUI, Avalonia, or machine learning project!
+- 💬 Ask me about my experiences programming Windows kernel drivers, training image identification models, writing a full stack application with Blazor, and more!
 - 📫 How to reach me: 
      - Personal: brandenstober@outlook.com
      - School: BMS1129@student.phsc.edu
@@ -36,4 +36,4 @@
 
 -----
 
-Last Edited on: 8/22/2024
+Last Edited on: 2/18/2025

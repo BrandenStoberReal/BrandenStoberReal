@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Branden Stober, a C# & .NET Backend Developer!
 
 - 🏢 I'm working on improving my C++, C, and Rust skills!
-- I'm a Google-Certified IT Support Specialist and Systems Administrator!
+- 🖥️ I'm a Google-Certified IT Support Specialist and Systems Administrator!
 - 👯 I'm happy to collaborate on any C#, .NET, or machine learning project!
 - 💬 Ask me about my experiences programming Windows Kernel Drivers, training image identification models, writing a full-stack application with Blazor, and more!
 - 📫 How to reach me: 

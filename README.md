@@ -30,10 +30,6 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg" alt="Visual Studio" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="Visual Studio Code" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="Docker" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vmware.svg" alt="VMWare" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="Unity" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg" alt="Unreal Engine" height="30" width="40" />
 </p>
 
 ### Operating Systems
@@ -44,6 +40,14 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ubuntu.svg" alt="Ubuntu Linux" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/alpinelinux.svg" alt="Alpine Linux" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg" alt="Windows 7/10/11" height="30" width="40" />
+</p>
+
+## Engines
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="Docker" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vmware.svg" alt="VMWare eSXI 6" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="Unity" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg" alt="Unreal Engine" height="30" width="40" />
 </p>
 
 ### My GitHub stats 

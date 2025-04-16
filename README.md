@@ -35,6 +35,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg" alt="Unreal Engine" height="30" width="40" />
 </p>
 
+<p>Psst, social media and other icons not showing up? Try switching to light mode!</p>
 ### My GitHub stats 
 
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=brandenstoberreal)](https://github.com/ryo-ma/github-profile-trophy)

@@ -4,6 +4,7 @@
 - 🖥️ I'm a Google-Certified IT Support Specialist and Systems Administrator!
 - 👯 I'm happy to collaborate on any C#, .NET, or machine learning project!
 - 💬 Ask me about my experiences programming Windows Kernel Drivers, training image identification models, writing a full-stack application with Blazor, and more!
+- ❗ This is not my first GitHub account! My experience goes back much further than what is shown here!
 - 📫 How to reach me: 
      - Personal: brandenstober@outlook.com
      - School: BMS1129@student.phsc.edu

@@ -40,7 +40,9 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/debian.svg" alt="Debian Linux" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ubuntu.svg" alt="Ubuntu Linux" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/alpinelinux.svg" alt="Alpine Linux" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/opensuse.svg" alt="OpenSUSE Linux" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg" alt="Windows 7/10/11" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg" alt="Android 10+" height="30" width="40" />
 </p>
 
 ### Engines
@@ -49,6 +51,13 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vmware.svg" alt="VMWare eSXI/Workstation" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="Unity" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg" alt="Unreal Engine" height="30" width="40" />
+</p>
+
+### Systems Administration
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wireguard.svg" alt="Wireguard VPN" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apache.svg" alt="Apache2" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg" alt="Oracle VPS Management" height="30" width="40" />
 </p>
 
 ### My GitHub stats 
@@ -62,4 +71,4 @@
 -----
 Psst, social media and other icons not showing up? Try switching to light mode!
 
-Last Edited on: 5/5/2025
+Last Edited on: 5/22/2025

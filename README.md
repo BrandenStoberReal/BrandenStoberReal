@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">Languages I Know:</h3>
+<h3 align="center">Languages I Know:</h3>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">Package Managers I've Used:</h3>
+<h3 align="center">Package Managers I've Used:</h3>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="left">Frameworks I've Used:</h3>
+<h3 align="center">Frameworks I've Used:</h3>
 
 ###
 
@@ -95,7 +95,7 @@
 
 ###
 
-<h3 align="left">IDEs I Am Proficient With:</h3>
+<h3 align="center">IDEs I Am Proficient With:</h3>
 
 ###
 
@@ -113,7 +113,7 @@
 
 ###
 
-<h3 align="left">OS's I've Used:</h3>
+<h3 align="center">OS's I've Used:</h3>
 
 ###
 
@@ -137,7 +137,7 @@
 
 ###
 
-<h3 align="left">Tools I Use:</h3>
+<h3 align="center">Tools I Use:</h3>
 
 ###
 

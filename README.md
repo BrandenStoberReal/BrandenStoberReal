@@ -51,18 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandenstober&theme=transparent&hide_border=true&stroke=007FFF&ring=007FFF&fire=007FFF&currStreakNum=white&sideNums=white&sideLabels=white&dates=white" alt="GitHub Streak" />
 </p>
 
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/brandenstober">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/brandenstober/brandenstober/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>

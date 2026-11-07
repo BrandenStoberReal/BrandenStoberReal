@@ -1,56 +1,53 @@
-# 💫 About Me
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Branden%20👋&fontSize=80&animation=fadeIn" />
-</p>
+# Hi, I'm Branden 👋
 
-<p align="center">
-  <a href="https://ko-fi.com/brandenstober" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Support%20My%20Work&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
-  </a>
-</p>
-
-### 🛠️ Professional Arsenal
-
-#### 🚀 Languages & Core
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,py,cpp,c,cs,lua,ts,js,nodejs,bash,html,css,wasm,postgres" />
-  </a>
-</p>
-
-#### 🖼️ Frameworks & Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,unity,unreal,dotnet,pytorch,tensorflow" />
-  </a>
-</p>
-
-#### 🔧 Tools & Environment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,postman,anaconda,linux,debian,ubuntu,arch,raspberrypi,windows" />
-  </a>
-</p>
-
-#### 💻 Development Suite
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,goland,rider,webstorm" />
-  </a>
-</p>
+Software & Systems Engineer specializing in enterprise application architecture, high-performance C# / .NET software, modular tooling, and Linux/network automation. 
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandenstober&show_icons=true&theme=transparent&hide_border=true&title_color=007FFF&icon_color=007FFF&text_color=white" alt="Branden's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandenstober&layout=compact&theme=transparent&hide_border=true&title_color=007FFF&text_color=white" alt="Top Languages" height="180px" />
-</p>
+### 🛠 Tech Stack & Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandenstober&theme=transparent&hide_border=true&stroke=007FFF&ring=007FFF&fire=007FFF&currStreakNum=white&sideNums=white&sideLabels=white&dates=white" alt="GitHub Streak" />
-</p>
+#### **Languages**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c%2b%2b-%2300599C.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brandenstober/brandenstober/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+#### **Frameworks & Runtimes**
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+#### **Systems, DevOps & Cloud**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%202088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+* **[CareerCanvas](https://github.com/BrandenStoberReal/CareerCanvas)** — Modular C# / .NET 9 desktop application engineered for document generation pipelines, featuring AES-256 encrypted local storage and dynamic template parsing.
+* **[SillyTavern-Utils](https://github.com/BrandenStoberReal/SillyTavern-Utils)** — Open-source modular utility framework and TypeScript type library published on npm for extension development.
+
+---
+
+### 🎯 Current Focus
+
+* **Building:** Enterprise C# & .NET Microservices
+* **Certifications in Progress:** 
+  * freeCodeCamp + Microsoft Foundational C# Certification
+  * Cisco Networking Academy — Linux Essentials & Networking Basics
+
+---
+
+### 📫 Connect
+
+* **GitHub:** [@BrandenStoberReal](https://github.com/BrandenStoberReal)
+
+*"Building deterministic, robust software from local architectures to cloud infrastructure."*

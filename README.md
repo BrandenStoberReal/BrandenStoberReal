@@ -1,6 +1,6 @@
 # Hi, I'm Branden 👋
 
-Software & Systems Engineer specializing in enterprise application architecture, high-performance C# / .NET software, modular tooling, and Linux/network automation. 
+Software & Systems Engineer specializing in enterprise application architecture, high-performance C# / .NET software, Android development, modular tooling, and Linux/network automation. 
 
 ---
 
@@ -18,7 +18,10 @@ Software & Systems Engineer specializing in enterprise application architecture,
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **Frameworks & Runtimes**
+#### **Frameworks, Mobile & Runtimes**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,7 +30,9 @@ Software & Systems Engineer specializing in enterprise application architecture,
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-#### **Systems, DevOps & Cloud**
+#### **Build Tools, Systems & DevOps**
+![R8 / ProGuard](https://img.shields.io/badge/R8%2FProGuard-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%202088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -46,7 +51,7 @@ Software & Systems Engineer specializing in enterprise application architecture,
 
 ### 🎯 Current Focus
 
-* **Building:** Enterprise C# & .NET Microservices
+* **Building:** Enterprise C# / .NET Applications & Mobile/System Tooling
 * **Certifications in Progress:** 
   * freeCodeCamp + Microsoft Foundational C# Certification
   * Cisco Networking Academy — Linux Essentials & Networking Basics
